@@ -27,3 +27,7 @@ This Power BI dashboard analyzes Netflix content performance using IMDb and TMDB
 - Power BI (.pbix) file
 - Dataset
 - Dashboard Screenshots
+
+## 📸 Dashboard Preview
+
+![Overview](Screenshots/Screenshot 2026-02-11 151508.png")
