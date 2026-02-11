@@ -30,4 +30,4 @@ This Power BI dashboard analyzes Netflix content performance using IMDb and TMDB
 
 ## 📸 Dashboard Preview
 
-![Overview](Screenshots/Screenshot 2026-02-11 151508.png")
+![Overview](Screenshots/Screenshot 2026-02-11 151508.png)
